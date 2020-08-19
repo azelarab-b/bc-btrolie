@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
-const developers = ""
+const prefix = "#"
+const developers = "490187539286851584"
 
 ////////
 
@@ -385,4 +385,4 @@ client.on('message',async message => {
 
 
 
-client.login("");
+client.login("NzQ1NDM4MjA0ODkwNDQ3OTc0.XzxxbQ.sMv-FPHARCOhwzXZa0N_w_6MBTM");
